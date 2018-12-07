@@ -35,6 +35,7 @@
           <value name="rec_closed">true</value>
           <value name="modifiable">true</value>
           <value name="rec_ref">PaymentGateway.doctypes:paymentGatewayRequest</value>
+          
         </record>
       </array>
       <value name="modifiable">true</value>
